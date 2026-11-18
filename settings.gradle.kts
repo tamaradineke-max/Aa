@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Vinted Studio"
+rootProject.name = "Erixclusive AI Studio"
 
 include(":app")

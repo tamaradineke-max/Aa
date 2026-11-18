@@ -1,5 +1,5 @@
 {
-  "name": "Vinted Studio",
+  "name": "Erixclusive AI Studio",
   "description": "AI fashion photography studio and Dutch Vinted listing generator using consistent model and bedroom references.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
