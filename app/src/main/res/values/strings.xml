@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vinted Studio</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_shoots">Shoots</string>
+    <string name="nav_references">References</string>
+    <string name="cd_model_reference">Active brunette model identity reference</string>
+    <string name="cd_bedroom_reference">Active Dutch bedroom setting reference</string>
+    <string name="cd_garment_photo">Original uploaded garment photo</string>
+    <string name="cd_generated_pose">Generated AI fashion photograph</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_delete">Delete</string>
+    <string name="cd_copy">Copy text</string>
+    <string name="cd_save_gallery">Save photo to gallery</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_regenerate">Regenerate photo</string>
+</resources>
